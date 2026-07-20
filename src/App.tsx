@@ -1,5 +1,5 @@
 import { motion } from 'motion/react'
-import { ArrowDownRight, ArrowRight, Award, BriefcaseBusiness, Check, GitBranch, GraduationCap, HousePlug, Mail, MapPin, Menu, Network, Phone, Route, Server, ShieldCheck, X } from 'lucide-react'
+import { ArrowRight, Award, BriefcaseBusiness, Check, GitBranch, GraduationCap, HousePlug, Mail, MapPin, Menu, Network, Phone, Route, Server, ShieldCheck, X } from 'lucide-react'
 import { useState, useEffect, useRef, type MouseEvent, type ReactNode } from 'react'
 import './App.css'
 import portrait from '../portrait.png'
